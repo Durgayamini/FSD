@@ -1,0 +1,42 @@
+body{
+    background-image: url("https://www.nicepng.com/png/detail/829-8292774_woman-holding-frame-holding-frame-png.png");
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+    background-position-y: top;
+    background-color:skyblue;
+}
+#header{
+    text-align: center;
+    color:darkmagenta;
+}
+#image{
+    margin-left: 26%;
+    margin-right: auto;
+    display: block;
+}
+.hi{
+    text-align: center;
+    color:blue;
+
+}
+#span1{
+    color:darkviolet;
+}
+ol.o{
+    display: inline-block;
+    text-align: left;
+}
+div.container{
+    text-align: center;
+}
+ul.u{
+    display: inline-block;
+    text-align: left;
+}
+#t{
+    
+display: inline-block;
+text-align: left;
+border-color:darkmagenta;
+}
